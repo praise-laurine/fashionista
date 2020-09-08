@@ -1,4 +1,105 @@
-h1{
-    text-align:center;
-    color:red;
+/* .box1{
+    border:1px solid black;
+    background-color: black;
+    height: 30px
 }
+ul{
+    float: left;
+    color: white;
+}
+ul li{
+    margin-top: -10px;
+    float: left;
+    position: relative;
+    left: 300%;
+    width: 100px;
+    font-size: 14px;
+    font-family: barlow condensed, sans-serif;
+    list-style: none;
+
+
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    margin-top: 1px;
+    color: white;
+    margin: 7px 12px;
+    position: relative;
+    left: -18%;
+    font-family: balow condensed sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.subbox{
+    border: 1px solid transparent;
+    background-color: whitesmoke;
+    height: 40px;
+}
+ol{
+    float: left;
+}
+ol li{
+    float: left;
+    width: 90px;
+    position: relative;
+    list-style-type: none;
+    font-family: balow condensed sans-serif;
+    font-size: 18px;
+}
+ol li{
+    text-decoration: none;
+    color:black;
+}
+ol li a:hover{
+    border-bottom: 4px solid red;
+}
+.fa-search{
+    position: absolute;
+    left: 42px;
+    top: 9px;
+    color: black;
+}
+h2{
+    position: relative;
+    left: -61.2%;
+    text-transform: uppercase;
+    font-family: balow condensed sans-serif;
+    margin-top: 4px;
+    color: red;
+    font-weight: bolder;
+
+}
+.cover img{
+    background-size: cover;
+    height: 530px;
+    width: 1328px;
+}
+.text {
+    position: absolute;
+    top: 30px;
+    left: 7px;
+
+}
+h3{
+    font-size: 70px;
+    font-family: barlow condensed sans serif;
+    text-transform: capitalize;
+    width: 460px;
+    word-spacing: 0px;
+    font-weight: normal;
+    line-height: 72px;
+}
+
+
+
+
+
+
+
+
+ */
