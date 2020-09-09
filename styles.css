@@ -130,7 +130,15 @@ h4{
     width: 150px;
     align-self: start;
   }
-  
+  .fa-user{
+      position: absolute;
+      left: 82%;
+      top: 9%;
+      color: black;
+  }
+  fa-shopping-cart{
+      
+  }
 
 
 
