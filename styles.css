@@ -150,7 +150,7 @@ h4{
     text-align: left;
 
   }
-  /* four image containers (use 25% for four, and 50% for two, etc) */
+  /* five image containers (use 25% for four, and 50% for two, etc) */
 .column {
     float: left;
     width: 33.33%;
