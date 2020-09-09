@@ -132,12 +132,23 @@ h4{
   }
   .fa-user{
       position: absolute;
-      left: 82%;
+      left: 85%;
       top: 9%;
       color: black;
   }
-  fa-shopping-cart{
-      
+  .fa-shopping-cart{
+    position: absolute;
+    left: 88%;
+    top: 9%;
+    color: black;
+    width: 25px;
+    height: -30px;
+    border-radius: 100px;
+    background-color: navajowhite;
+    margin-top: -2px;
+    margin-left: -4px;
+    text-align: left;
+
   }
 
 
