@@ -144,21 +144,40 @@ h4{
     margin-left: -4px;
     text-align: left;
   }
-  .images22{
-    margin-left: 600px;
-    margin-right: 600px;
+  .img{
+    
+    height: 5000px;
+    width: 10000px;
+    object-fit:scale-down;
     float: right;
-    left: 20%;
-    right: 20%;
+    border: 1px solid darkgray;
+    box-shadow: 1px 2px 4px;
+
   }
   h5{
       color: black;
       position: absolute;
-      left:20%;
-      top:25%;
+      left:40%;
+      top: 150%;
       border: 1px solid whitesmoke;
       width: 200px;
       font-size: 40px;
+      font-family: barlow condensed sans-serif;
+      background-color: white;
+      font-weight: normal;
+      text-align: center;
+  }
+  .womenz:hover{
+      box-shadow: 1px 3px 9px;
+
+  }
+  .images23{
+    height: 5000px;
+    width: 10000px;
+    object-fit:scale-down;
+    float: right;
+    border: 1px solid darkgray;
+
   }
 
 
