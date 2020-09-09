@@ -96,7 +96,7 @@ h3{
 }
 
 form input[type="submit"]{
-    position: aboslute;
+    position: absolute;
     top:86%;
     padding: 10px;
     text-transform: uppercase;
@@ -127,7 +127,6 @@ h4{
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
-    width: 150px;
     align-self: start;
   }
   .fa-user{
