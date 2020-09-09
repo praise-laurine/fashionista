@@ -120,13 +120,6 @@ h4{
     text-transform: uppercase;
     font-weight: bolder;
 }
-.image22{
-    position: absolute:
-    left: 20%;
-    top: 20%;
-    border: 1px solid red;
-    box-shadow: 1px 2px 2px;
-  }
   .fa-user{
       position: absolute;
       left: 85%;
@@ -147,7 +140,7 @@ h4{
     text-align: left;
 
   }
-  /* five image containers (use 25% for four, and 50% for two, etc) */
+  /* seven image containers (use 25% for four, and 50% for two, etc) */
 .column {
     float: left;
     width: 33.33%;
