@@ -161,7 +161,7 @@ form input[type="submit"] :hover{
     color: black;
     position: absolute;
     left:10%;
-    top:170%;
+    top:200%;
     border: 1px solid whitesmoke;
     width: 200px;
     font-size: 40px;
@@ -173,7 +173,7 @@ form input[type="submit"] :hover{
 } 
 .accessories{
     position: absolute;
-    top:170%;
+    top:200%;
     left: 80%;
     border: 1px solid whitesmoke;
     width: 200px;
@@ -186,7 +186,7 @@ form input[type="submit"] :hover{
 }
 .women{
     position: absolute;
-    top: 170%;
+    top: 200%;
     left:40%;
     border: 1px solid whitesmoke;
     width: 200px;
