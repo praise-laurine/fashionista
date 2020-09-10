@@ -116,10 +116,10 @@ form input[type="submit"] :hover{
 
 }
 
-h4{
+.header{
     text-align-last: center;
     padding: 10px;
-    color: blue;
+    color:black;
     font-family: barlow condensed sans-serif;
     position: relative;
     text-transform: uppercase;
@@ -144,21 +144,6 @@ h4{
     margin-left: -4px;
     text-align: left;
   }
-
-  }
-  h5{
-      color: black;
-      position: absolute;
-      left:40%;
-      top: 20%;
-      border: 1px solid whitesmoke;
-      width: 200px;
-      font-size: 40px;
-      font-family: barlow condensed sans-serif;
-      background-color: white;
-      font-weight: normal;
-      text-align: center;
-  }
   .row {
     display: flex;
   }
@@ -166,10 +151,58 @@ h4{
 
   /* three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-    float: left;
+    
     width: 33.33%;
     padding: 5px;
+    top: 100px;
   }
+.men{
+    color: black;
+    position: absolute;
+    left:10%;
+    top:170%;
+    border: 1px solid whitesmoke;
+    width: 200px;
+    font-size: 40px;
+    font-family: barlow condensed sans-serif;
+    background-color: white;
+    font-weight: bolder;
+    text-align: center;
+
+} 
+.accessories{
+    position: absolute;
+    top:170%;
+    left: 80%;
+    border: 1px solid whitesmoke;
+    width: 200px;
+    font-size: 40px;
+    font-family: barlow condensed sans-serif;
+    background-color: white;
+    font-weight: bolder;
+    text-align: center;
+
+}
+.women{
+    position: absolute;
+    top: 170%;
+    left:40%;
+    border: 1px solid whitesmoke;
+    width: 200px;
+    font-size: 40px;
+    font-family: barlow condensed sans-serif;
+    background-color: white;
+    font-weight: bolder;
+    text-align: center;
+}
+.first{
+    font-size: 10px;
+    text-align: center;
+    
+} 
+.header   
+
+
 
 
 
