@@ -144,21 +144,13 @@ h4{
     margin-left: -4px;
     text-align: left;
   }
-  .img{
-    
-    height: 5000px;
-    width: 10000px;
-    object-fit:scale-down;
-    float: right;
-    border: 1px solid darkgray;
-    box-shadow: 1px 2px 4px;
 
   }
   h5{
       color: black;
       position: absolute;
       left:40%;
-      top: 150%;
+      top: 20%;
       border: 1px solid whitesmoke;
       width: 200px;
       font-size: 40px;
@@ -167,17 +159,16 @@ h4{
       font-weight: normal;
       text-align: center;
   }
-  .womenz:hover{
-      box-shadow: 1px 3px 9px;
-
+  .row {
+    display: flex;
   }
-  .images23{
-    height: 5000px;
-    width: 10000px;
-    object-fit:scale-down;
-    float: right;
-    border: 1px solid darkgray;
 
+
+  /* three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
   }
 
 
