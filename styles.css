@@ -1,7 +1,4 @@
 
-.body{
-  color: darkblue;
-}
 
 .box1{
     border:1px solid black;
@@ -101,7 +98,7 @@ h3{
     line-height: 72px;
 }
 
-form input[type="submit"]{
+.text > form input[type="submit"]{
     position: absolute;
     top:86%;
     padding: 10px;
@@ -112,7 +109,7 @@ form input[type="submit"]{
     font-family: barlow condensed sans-serif;
     letter-spacing: 1px;
 }
-form input[type="submit"] :hover{
+.text > form input[type="submit"] :hover{
     background-color: red;
 
 }
@@ -125,6 +122,10 @@ form input[type="submit"] :hover{
     position: relative;
     text-transform:none
     font-weight: bolder;
+    
+}
+.header > .first > p{
+    font-size: 20px;
 }
   .fa-user{
       position: absolute;
@@ -161,7 +162,7 @@ form input[type="submit"] :hover{
     color: black;
     position: absolute;
     left:10%;
-    top:200%;
+    top:180%;
     border: 1px solid whitesmoke;
     width: 200px;
     font-size: 40px;
@@ -173,7 +174,7 @@ form input[type="submit"] :hover{
 } 
 .accessories{
     position: absolute;
-    top:200%;
+    top:180%;
     left: 80%;
     border: 1px solid whitesmoke;
     width: 200px;
@@ -186,7 +187,7 @@ form input[type="submit"] :hover{
 }
 .women{
     position: absolute;
-    top: 200%;
+    top: 180%;
     left:40%;
     border: 1px solid whitesmoke;
     width: 200px;
@@ -196,13 +197,109 @@ form input[type="submit"] :hover{
     font-weight: bolder;
     text-align: center;
 }
-.first{
-    font-size: 20px;
-    text-align: center;
+
     
-}   
+
+    
+
+.first{
+    font-size: 10px;
+    text-align: center;
+    font-style: italic;
+    color: burlywood;
+    
+    
+}  
+  
 
 
+  /* three image containers (use 25% for four, and 50% for two, etc) */
+.store> .column {
+    
+    width: 33.33%;
+    padding: 5px;
+    top: 100px;
+    background: linear-gradient(green, blue);
+}
+
+#conta{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+    
+    background-position: center;
+    font-family: sans-serif;
+    top: 200px;
+
+}
+#conta > h4{
+    color:black;
+    text-transform: uppercase;
+    transition: all 4s ease-in-out;
+    line-height: 10px;
+    font-size: 16px;
+    font-style: italic;
+    top: 120px;
+    padding:50px;
+}
+.contact-form > form{
+    margin-top: 50px;
+    transition: all 4s ease-in-out
+    top:200px;
+}
+.form-control{
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 16px
+}
+#conta > input{
+    height:45px;
+    top: 120px;
+
+}
+ form >.submit{
+    background-color: green;
+    border-color:transparent;
+    color:#fff;
+    font-size:20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+ /* three image containers (use 25% for four, and 50% for two, etc) */
+ #blog .column {
+    
+    width: 33.33%;
+    padding: 5px;
+    top: 100px;
+  }
+  #blog .row{
+      display: flex;
+
+  }
+  .card-content > p{
+      border: 1px solid whitesmoke;
+      font-family: barlow condensed sans-serif;
+    background-color: white;
+    font-weight: bolder;
+  }
+ .card-action{
+    border: 1px solid whitesmoke;
+    font-family: barlow condensed sans-serif;
+    color:yellow;
+    background-color: yellow; 
+ }
+ body{
+     background-color: blue;
+ }
 
 
 
