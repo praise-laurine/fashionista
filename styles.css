@@ -121,7 +121,7 @@ h3{
     font-family: barlow condensed sans-serif;
     position: relative;
     text-transform:none
-    font-weight:bolder;
+    font-weight bolder;
     
 }
 .header > .first > p{
@@ -246,7 +246,7 @@ h3{
 .contact-form > form{
     margin-top: 50px;
     transition: all 4s ease-in-out
-    top:200px;
+    top 200px;
 }
 .form-control{
     width: 600px;
